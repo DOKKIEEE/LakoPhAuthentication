@@ -1,0 +1,12 @@
+.logoutBtn {
+    border: none;
+    margin-top: 7px;
+    width: 100px;
+    background-color: #16f7ec;
+    font-size: 1rem;
+}
+
+#emailInput {
+    background-color: #16f7ec;
+}
+
